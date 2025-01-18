@@ -13,4 +13,5 @@ HTML
 CSS
 ## How to view
 View the portfolio online at:
+https://praveenkumaryogi11.github.io/portfolio-simple-website-/
 
